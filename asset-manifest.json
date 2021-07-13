@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Shahrukh/static/css/main.7a9e017a.chunk.css",
+    "main.js": "/Shahrukh/static/js/main.21d8988d.chunk.js",
+    "runtime-main.js": "/Shahrukh/static/js/runtime-main.0862b01a.js",
+    "static/css/2.24686454.chunk.css": "/Shahrukh/static/css/2.24686454.chunk.css",
+    "static/js/2.0502f3ac.chunk.js": "/Shahrukh/static/js/2.0502f3ac.chunk.js",
+    "index.html": "/Shahrukh/index.html",
+    "static/js/2.0502f3ac.chunk.js.LICENSE.txt": "/Shahrukh/static/js/2.0502f3ac.chunk.js.LICENSE.txt",
+    "static/media/Astar.41cf3522.PNG": "/Shahrukh/static/media/Astar.41cf3522.PNG",
+    "static/media/ChatRoom.8f406918.PNG": "/Shahrukh/static/media/ChatRoom.8f406918.PNG",
+    "static/media/ClimateGlobal.7df4756f.png": "/Shahrukh/static/media/ClimateGlobal.7df4756f.png",
+    "static/media/HackWestern7.cab1fc26.PNG": "/Shahrukh/static/media/HackWestern7.cab1fc26.PNG",
+    "static/media/IMG_0915.67c1661e.JPG": "/Shahrukh/static/media/IMG_0915.67c1661e.JPG",
+    "static/media/Marketing Video.40038f4e.mp4": "/Shahrukh/static/media/Marketing Video.40038f4e.mp4",
+    "static/media/fonts.css": "/Shahrukh/static/media/Montserrat-Regular.3cd78665.ttf",
+    "static/media/TicTacToe2.0.4556aae7.png": "/Shahrukh/static/media/TicTacToe2.0.4556aae7.png",
+    "static/media/Whitehare.ec024387.PNG": "/Shahrukh/static/media/Whitehare.ec024387.PNG",
+    "static/media/main.scss": "/Shahrukh/static/media/landing.e591a57d.jpg",
+    "static/media/me.e2fc072c.jpg": "/Shahrukh/static/media/me.e2fc072c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0862b01a.js",
+    "static/css/2.24686454.chunk.css",
+    "static/js/2.0502f3ac.chunk.js",
+    "static/css/main.7a9e017a.chunk.css",
+    "static/js/main.21d8988d.chunk.js"
+  ]
+}
