@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Shahrukh/static/css/main.7a9e017a.chunk.css",
-    "main.js": "/Shahrukh/static/js/main.21d8988d.chunk.js",
+    "main.js": "/Shahrukh/static/js/main.6414ac8b.chunk.js",
     "runtime-main.js": "/Shahrukh/static/js/runtime-main.0862b01a.js",
     "static/css/2.24686454.chunk.css": "/Shahrukh/static/css/2.24686454.chunk.css",
     "static/js/2.0502f3ac.chunk.js": "/Shahrukh/static/js/2.0502f3ac.chunk.js",
@@ -24,6 +24,6 @@
     "static/css/2.24686454.chunk.css",
     "static/js/2.0502f3ac.chunk.js",
     "static/css/main.7a9e017a.chunk.css",
-    "static/js/main.21d8988d.chunk.js"
+    "static/js/main.6414ac8b.chunk.js"
   ]
 }
