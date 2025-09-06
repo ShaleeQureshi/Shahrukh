@@ -1,0 +1,134 @@
+@font-face {
+  font-family: Mada-Regular;
+  src: url("./assets/static/Mada-Regular.ttf");
+}
+@font-face {
+  font-family: Mada-Light;
+  src: url("./assets/static/Mada-Light.ttf");
+}
+@font-face {
+  font-family: Mada-Bold;
+  src: url("./assets/static/Mada-Bold.ttf");
+}
+@font-face {
+  font-family: Mada-SemiBold;
+  src: url("./assets/static/Mada-SemiBold.ttf");
+}
+@font-face {
+  font-family: Mada-Medium;
+  src: url("./assets/static/Mada-Medium.ttf");
+}
+
+.bg {
+  background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+  min-height: 100vh;
+  padding-bottom: 100px;
+}
+
+h1 {
+  font-family: Mada-SemiBold;
+}
+h3,
+h4,
+li,
+ul {
+  font-family: Mada-Regular;
+}
+
+li,
+ul {
+  font-size: large;
+}
+
+#landing {
+  margin-top: 10%;
+}
+
+#landing-left {
+  margin-top: 50px;
+}
+
+#me-img {
+  min-width: 250px;
+  max-width: 250px;
+}
+
+#icons {
+  max-width: 45px;
+  margin-right: 10px;
+  transition: transform 0.3s ease, filter 0.3s ease;
+}
+
+#icons:hover {
+  transform: scale(1.5);
+  filter: brightness(1.5);
+}
+
+#intro {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-padding {
+  padding: 0px 15px 15px 15px;
+}
+
+#text-a {
+  text-decoration: none;
+  color: inherit;
+  font-family: Mada-Bold;
+}
+
+#btnText {
+  font-family: Mada-Bold;
+  font-size: larger;
+}
+
+@media screen and (max-width: 460px) {
+  h1,
+  h3 {
+    font-size: larger;
+  }
+  h4 {
+    font-size: medium;
+  }
+  li,
+  ul {
+    font-size: small;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  #landing-left {
+    margin-top: 0px;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  #me-img {
+    min-width: 75vw;
+  }
+}
+
+.footer {
+  background-color: #191919;
+  p {
+    margin: auto;
+    color: white;
+    opacity: 0.5;
+  }
+}
+#underline {
+  width: 50%;
+  border: 2px solid #00cdac;
+  opacity: 0.75;
+  margin-left: 25%;
+}
+
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+}
