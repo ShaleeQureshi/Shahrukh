@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Shahrukh/static/css/main.1ae72c61.css",
-    "main.js": "/Shahrukh/static/js/main.dd95242a.js",
+    "main.js": "/Shahrukh/static/js/main.1c2c0edc.js",
     "static/media/Procter_&_Gamble_logo.svg.png": "/Shahrukh/static/media/Procter_&_Gamble_logo.svg.ac81ceae39c40b4beeb8.png",
     "static/media/Mada-SemiBold.ttf": "/Shahrukh/static/media/Mada-SemiBold.b038c42ef0d8ac647319.ttf",
     "static/media/Mada-Bold.ttf": "/Shahrukh/static/media/Mada-Bold.691e78f1d573930c44aa.ttf",
@@ -11,10 +11,10 @@
     "static/media/me2.jpeg": "/Shahrukh/static/media/me2.a1acb8725895edec7570.jpeg",
     "index.html": "/Shahrukh/index.html",
     "main.1ae72c61.css.map": "/Shahrukh/static/css/main.1ae72c61.css.map",
-    "main.dd95242a.js.map": "/Shahrukh/static/js/main.dd95242a.js.map"
+    "main.1c2c0edc.js.map": "/Shahrukh/static/js/main.1c2c0edc.js.map"
   },
   "entrypoints": [
     "static/css/main.1ae72c61.css",
-    "static/js/main.dd95242a.js"
+    "static/js/main.1c2c0edc.js"
   ]
 }
