@@ -9,10 +9,17 @@ import TANGERINE from "./assets/tangerine.jpeg";
 import OD1N from "./assets/od1n.jpeg";
 import AMELIA from "./assets/amelia.jpeg";
 import NOKIA from "./assets/nokia_logo.jpeg";
+import AUTODESK from "./assets/autodesk_logo.jpeg";
 import { Chrono } from "react-chrono";
 
 const Home = () => {
   const items = [
+    {
+      title: <Image src={AUTODESK} style={{ maxWidth: 50 }} />,
+      cardSubtitle: "Jan 2026 - Aug 2026",
+      cardTitle: "Autodesk",
+      cardDetailedText: "Full Stack Software Engineer Intern",
+    },
     {
       title: <Image src={NOKIA} style={{ maxWidth: 50 }} />,
       cardSubtitle: "Sept 2025 - Dec 2025",
@@ -82,8 +89,7 @@ const Home = () => {
             <h4>
               I'm a Double Degree student studying Computer Science at the
               University of Waterloo and Business Administration at Wilfrid
-              Laurier University in Waterloo, ON, Canada. I will be graduating
-              in December 2026.
+              Laurier University in Waterloo, ON, Canada.
               <br /> <br />
               Open to Internships / FT
             </h4>
